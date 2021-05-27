@@ -1,4 +1,4 @@
-package gdutils
+package qjson
 
 import (
 	"reflect"
